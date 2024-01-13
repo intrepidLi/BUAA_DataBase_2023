@@ -41,6 +41,7 @@ CORS(app)
 HOST = '120.46.80.149'
 PORT = '3306'
 
+# Remember to change the database name, username and password
 DATABASE = 'db21371245'
 USERNAME = '21371245'
 PASSWORD = 'Aa825915'
