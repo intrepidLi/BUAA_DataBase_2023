@@ -29,7 +29,7 @@ PORT = '3306'
 DATABASE = 'database_project'
 USERNAME = 'root'
 # PASSWORD = 'mysql'
-PASSWORD = '990516lyT?*k'
+PASSWORD = '*******' # Warning: Remember to change the password to your own password
 DB_URI = 'mysql+pymysql://{}:{}@{}:{}/{}'.format(USERNAME, PASSWORD, HOST, PORT, DATABASE)
 DB_CHARSET = "utf8"  # 数据库连接编码
 

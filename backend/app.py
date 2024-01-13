@@ -27,20 +27,19 @@ app = Flask(__name__)
 jwt = JWTManager(app)
 # CROS
 CORS(app)
+
+# This is the local path of the database
 # database
 # HOST = '127.0.0.1'
 # PORT = '3306'
 # DATABASE = 'database_project'
 # USERNAME = 'root'
 # # PASSWORD = 'mysql'
-# PASSWORD = '990516lyT?*k'
+# PASSWORD = '*******'
 
-
+# This is the remote path of the database(Harmony Cloud)
 HOST = '120.46.80.149'
 PORT = '3306'
-# DATABASE = 'db21373372'
-# USERNAME = '21373372'
-# PASSWORD = 'Aa749924'
 
 DATABASE = 'db21371245'
 USERNAME = '21371245'
