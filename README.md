@@ -18,49 +18,49 @@ Python
 
 ### 用户系统
 
-![image-20240113162648748](.\img\1.png)
+![image-20240113162648748](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/1.png)
 
-![image-20240113162717465](.\img\2.png)
+![image-20240113162717465](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/2.png)
 
-![image-20240113162732615](.\img\3.png)
+![image-20240113162732615](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/3.png)
 
-![image-20240113162745943](.\img\4.png)
+![image-20240113162745943](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/4.png)
 
-![image-20240113162801582](.\img\5.png)
+![image-20240113162801582](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/5.png)
 
 ### 评论系统
 
-![image-20240113162836063](.\img\6.png)
+![image-20240113162836063](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/6.png)
 
 ### 商品预览
 
-![image-20240113162906932](.\img\7.png)
+![image-20240113162906932](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/7.png)
 
-![image-20240113162918130](.\img\8.png)
+![image-20240113162918130](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/8.png)
 
 ### 商品详情及比价
 
-![image-20240113162946508](.\img\9.png)
+![image-20240113162946508](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/9.png)
 
-![image-20240113162957262](.\img\10.png)
+![image-20240113162957262](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/10.png)
 
 ### 收藏和购物车
 
-![image-20240113163049792](.\img\11.png)
+![image-20240113163049792](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/11.png)
 
-![image-20240113163103272](.\img\12.png)
+![image-20240113163103272](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/12.png)
 
 ### 订单及评分
 
-![image-20240113163127961](.\img\13.png)
+![image-20240113163127961](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/13.png)
 
-![image-20240113163146968](.\img\14.png)
+![image-20240113163146968](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/14.png)
 
 ### 浏览记录及好评榜
 
-![image-20240113163216756](.\img\15.png)
+![image-20240113163216756](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/15.png)
 
-![image-20240113163227899](.\img\16.png)
+![image-20240113163227899](https://github.com/intrepidLi/BUAA_DataBase_2023/blob/master/img/16.png)
 
 ## 前后端分离启动
 
